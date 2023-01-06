@@ -1,1 +1,2 @@
-# sleeping-cat-websitge-background-theme
+# sleeping-cat-animated frontend theme 
+# contains HTML, CSS prograing languaages .
